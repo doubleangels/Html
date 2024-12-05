@@ -23,7 +23,7 @@
     "swiper": "^11.1.15"
   },
   "devDependencies": {
-    "@sentry/vite-plugin": "^2.22.6",
+    "@sentry/vite-plugin": "^2.22.7",
     "@types/react": "^18.3.13",
     "@types/react-dom": "^18.3.1",
     "@types/react-fontawesome": "^1.6.8",
