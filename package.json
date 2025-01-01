@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@sentry/vite-plugin": "^2.22.7",
-    "@types/react": "^19.0.1",
+    "@types/react": "^19.0.2",
     "@types/react-dom": "^19.0.2",
     "@types/react-fontawesome": "^1.6.8",
     "@typescript-eslint/eslint-plugin": "^8.19.0",
